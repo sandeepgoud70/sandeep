@@ -1,0 +1,22 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "lean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepgoud70/sandeep.git"
+  },
+  "keywords": [
+    "u"
+  ],
+  "author": "sandeepgoud70@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepgoud70/sandeep/issues"
+  },
+  "homepage": "https://github.com/sandeepgoud70/sandeep#readme"
+}
